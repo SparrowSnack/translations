@@ -128,7 +128,7 @@
       "github": "GitHub",
       "issues": "问题跟踪器",
       "source": "源代码",
-      "wiki": "维基",
+      "wiki": "维基百科",
       "patreon": "Patreon",
       "paypal": "PayPal",
       "buy_me_a_coffee": "赞助我一杯咖啡",
@@ -428,14 +428,14 @@
   },
   "tags": {
     "technology": "科技",
-    "adventure": "冒险",
+    "adventure": "冒险与探索",
     "magic": "魔法",
-    "utility": "实用工具",
-    "decoration": "装饰",
-    "library": "程序库",
-    "cursed": "怪异",
+    "utility": "工具",
+    "decoration": "建筑与装饰",
+    "library": "支持库",
+    "cursed": "匪夷所思",
     "worldgen": "世界生成",
-    "storage": "存储",
+    "storage": "仓储",
     "food": "食物",
     "equipment": "装备",
     "miscellaneous": "杂项",
@@ -453,8 +453,8 @@
     "rift": "Rift",
     "server": "服务端",
     "client": "客户端",
-    "good": "优质内容",
-    "trash": "垃圾内容",
-    "misc": "杂项"
+    "good": "杰出内容",
+    "trash": "破烂内容",
+    "misc": "其他内容"
   }
 }
