@@ -262,7 +262,7 @@
     "joined": "加入于 {ago}",
     "notified": "通知接收于 {ago}",
     "downloads": "<b>{downloads, number}</b> 次下载",
-    "followers_of_projects": "<b>{followers, number}</b> 名关注者",
+    "followers_of_projects": "<b>{followers, number}</b> 名关注",
     "followers": "<b>{followers, number}</b> 名粉丝",
     "user_id": "用户 ID：{id}",
     "created": "创建于 {ago}",
@@ -428,14 +428,14 @@
   },
   "tags": {
     "technology": "科技",
-    "adventure": "冒险",
+    "adventure": "冒险与探索",
     "magic": "魔法",
-    "utility": "实用工具",
+    "utility": "工具",
     "decoration": "装饰",
-    "library": "程序库",
-    "cursed": "怪异",
+    "library": "支持库",
+    "cursed": "匪夷所思",
     "worldgen": "世界生成",
-    "storage": "存储",
+    "storage": "仓储",
     "food": "食物",
     "equipment": "装备",
     "miscellaneous": "杂项",
@@ -453,8 +453,8 @@
     "rift": "Rift",
     "server": "服务端",
     "client": "客户端",
-    "good": "优质内容",
-    "trash": "垃圾内容",
-    "misc": "杂项"
+    "good": "杰出内容",
+    "trash": "破烂内容",
+    "misc": "其他内容"
   }
 }
